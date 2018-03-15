@@ -54,6 +54,8 @@ public class CustomerManager : MonoBehaviour {
 		}
 	}
 
+
+
 	void GenerateOrder(){
 		customerWants = GetRandomEnum<Drinks> ();
 		Debug.Log (customerWants);
