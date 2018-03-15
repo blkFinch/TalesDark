@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour {
 
-	public Text victory;
+
 
 //	private CoffeeManager coffeeManager;
 //	private CustomerManager customerManager;
@@ -20,14 +20,7 @@ public class LevelManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//no longer needed
-//		if (customerManager.customerState == CustomerManager.CustomerStates.wantsBlack) {
-//			if (coffeeManager.playerDrink == CoffeeManager.Drinks.blackCoffee) {
-//				victory.text = "YOU WIN!";
-//			} else {
-//				victory.text = " ";
-//			}
-//		}//end of while 'wantsBlack'
+		
 		
 	}//end of update
 }//end of main
