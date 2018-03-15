@@ -18,12 +18,19 @@ public class CoffeeManager : MonoBehaviour {
 	public bool hasEspresso = false;
 	public bool hasSteamed = false;
 
+	public bool isIced = false;
+
 	public float milk;
 
 	// Use this for initialization
 	void Start () {
 		playerDrink = Drinks.nil;
 		
+	}
+
+	public void addIce(){
+		isIced = true;
+		Debug.Log("added ice!");
 	}
 
 	public void steamMilk(float x){

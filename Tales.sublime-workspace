@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Fixed",
+				"FixedUpdate\tMonoBehaviour.*()"
+			],
+			[
+				"velo",
+				"velocity\tRigidbody2D.*"
+			],
+			[
+				"Rigi",
+				"Rigidbody2D\t[class]"
+			],
+			[
+				"Vec",
+				"Vector2\tProceduralPropertyType.*"
+			],
+			[
+				"transform",
+				"transform\tComponent.*"
+			],
+			[
+				"tra",
+				"transform\tGameObject.*"
+			],
+			[
+				"getkey",
+				"getKey\tInput.*(name)"
+			],
+			[
+				"player",
+				"playerPrefs\t[class]"
+			],
+			[
+				"Player",
+				"PlayerPrefs\t[class]"
+			],
+			[
+				"spe",
+				"Sephiroth420"
+			],
+			[
+				"sep",
+				"seph2rightB"
+			],
+			[
+				"seph2rightA",
+				"seph2rightA"
+			],
+			[
+				"se",
+				"seph2right"
+			],
+			[
+				"play",
+				"PlayerPrefs"
+			],
+			[
+				"le",
+				"LeftArrow"
+			],
+			[
+				"use",
+				"UserName"
+			],
+			[
+				"Sep",
+				"Sephiroth420"
+			],
+			[
+				"pl",
+				"playerState"
+			],
+			[
+				"get",
+				"GetKeyDown"
+			],
+			[
+				"IN",
+				"Input"
+			],
+			[
+				"us",
+				"UserName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CoffeeManager.cs",
+			"settings":
+			{
+				"buffer_size": 2476,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LevelManager.cs",
+			"settings":
+			{
+				"buffer_size": 501,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CustomerManager.cs",
+			"settings":
+			{
+				"buffer_size": 1774,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 712.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Fennig/local-TFTD/Tales From The Darkside/Assets/_scripts_repo"
+	],
+	"file_history":
+	[
+		"/Volumes/Fennig/local-TFTD/Tales From The Darkside/Assets/_scripts_repo/CustomerManager.cs",
+		"/Volumes/Fennig/Dropbox/Unity/2d Platformer/Assets/_Scripts/PlayerController.cs",
+		"/Volumes/Fennig/Dropbox/Unity/2d Platformer/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs",
+		"/Volumes/Seagate Backup Plus Drive/newtext",
+		"/Users/Finch/Dropbox/ggj/SFCC GameJam/Assets/_scripts/PlayerPrefs.cs",
+		"/Users/Finch/Dropbox/ggj/SFCC GameJam/Assets/_scripts/HiveChat.cs",
+		"/Users/Finch/Dropbox/ggj/design_notes"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"true",
+			"false"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CoffeeManager.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1516,
+								1516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 929.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "LevelManager.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "CustomerManager.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								265
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.466709007498,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Tales.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
