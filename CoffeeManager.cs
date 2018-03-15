@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public enum Drinks{ blackCoffee, creamCoffee , latte, espresso, turbo, nil, badDrink, cafeAuLait};
+public enum Drinks{ blackCoffee, creamCoffee , latte, espresso, turbo, nil, badDrink, cafeAuLait, americano};
 
 public class CoffeeManager : MonoBehaviour {
 	//outputs
@@ -36,7 +36,7 @@ public class CoffeeManager : MonoBehaviour {
 
 	public void addEspresso(){
 		hasEspresso = !hasEspresso;
-		Debug.Log ("has espress = " + hasEspresso);
+		Debug.Log ("hi mark = " + hasEspress);
 	}
 	
 	public void addSteamed(){
